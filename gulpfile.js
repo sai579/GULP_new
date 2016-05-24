@@ -51,3 +51,4 @@ gulp.task('imagemin', function() {
 
 //thats ho we added to github
 //again diff
+//i got u this time u cannot skip it now
